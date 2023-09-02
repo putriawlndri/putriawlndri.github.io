@@ -949,7 +949,7 @@ section .container {
 
 .portfolio-details .portfolio-title {
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 20px;
 }
 
@@ -959,7 +959,7 @@ section .container {
 
 .portfolio-details .portfolio-info h3 {
   font-size: 22px;
-  font-weight: 400;
+  font-weight: 600;
   margin-bottom: 20px;
 }
 
